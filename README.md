@@ -1,5 +1,8 @@
 # Anonymous Voting dApp on Stellar Testnet
 
+**Deployed Contract ID:** `CCJTKJZJGE3GJ7JJHQVG2PAMIZT22HNQ2TNBYO6YQ43MEMMOKXJKDVP5`
+**Stellar Expert Explorer:** [View on Explorer](https://stellar.expert/explorer/testnet/contract/CCJTKJZJGE3GJ7JJHQVG2PAMIZT22HNQ2TNBYO6YQ43MEMMOKXJKDVP5)
+
 This is a complete, working full-stack decentralized application built on the Stellar network using Soroban. It implements a private voting system using a commit-reveal scheme. In the commit phase, voters submit a hash of their vote and a secret phrase. In the reveal phase, they submit the actual vote and secret to be verified and tallied. No vote is visible on-chain until the reveal phase ends.
 
 ## Tech Stack
